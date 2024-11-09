@@ -140,3 +140,10 @@
         <li><b>Стрелки</b> — навигация по страницам пользователей</li>
     </ul>
 
+<img width="1470" alt="Screenshot 2024-11-10 at 01 55 35" src="https://github.com/user-attachments/assets/4e763c6a-3539-4371-bbe4-37e210c82487">
+<img width="1470" alt="Screenshot 2024-11-10 at 01 55 53" src="https://github.com/user-attachments/assets/a2c32e5c-28a2-497d-bfa6-1c249aa7fcd4">
+<img width="1470" alt="Screenshot 2024-11-10 at 01 55 57" src="https://github.com/user-attachments/assets/d6ed7362-e040-412c-bfe3-10a5157eb58c">
+
+
+
+
