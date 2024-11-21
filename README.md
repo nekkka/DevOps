@@ -23,10 +23,12 @@
 
 <h3>Какие библиотеки понадобятся?</h3>
 <ul>
-        <li><b>os</b> — работа с операционной системой.</li>
-        <li><b>curses</b> — создание текстового пользовательского интерфейса с управлением текстом, цветами и навигацией.</li>
-        <li><b>pyfiglet</b> — генерация ASCII-арта перед использованием cli для красивого внешнего вида интерфейса программы.</li>
-</ul>
+        <li><strong>os</strong> — работа с операционной системой.</li>
+        <li><strong>curses</strong> — создание текстового пользовательского интерфейса.</li>
+        <li><strong>pyfiglet</strong> — генерация ASCII-арта для красивого интерфейса.</li>
+        <li><strong>subprocess</strong> — выполнение системных команд и получение их результатов.</li>
+    </ul>
+
 
 <h2>Функции и их назначение:</h2>
     <h3>1. welcome</h3>
@@ -140,9 +142,17 @@
         <li><b>Стрелки</b> — навигация по страницам пользователей</li>
     </ul>
 
-<img width="1470" alt="Screenshot 2024-11-10 at 01 55 35" src="https://github.com/user-attachments/assets/4e763c6a-3539-4371-bbe4-37e210c82487">
-<img width="1470" alt="Screenshot 2024-11-10 at 01 55 53" src="https://github.com/user-attachments/assets/a2c32e5c-28a2-497d-bfa6-1c249aa7fcd4">
-<img width="1470" alt="Screenshot 2024-11-10 at 01 55 57" src="https://github.com/user-attachments/assets/d6ed7362-e040-412c-bfe3-10a5157eb58c">
+![image](https://github.com/user-attachments/assets/6db5d556-cd6e-48ea-80d1-d35305f08645)
+
+![image](https://github.com/user-attachments/assets/97a2f559-f504-4e10-ac7b-74f54bec2296)
+![image](https://github.com/user-attachments/assets/bf637bae-131f-4efa-b931-68db28224a2c)
+![image](https://github.com/user-attachments/assets/40e02054-701a-4557-8f13-2b22cdb0aac2)
+![image](https://github.com/user-attachments/assets/a26dae5c-cbc4-427b-a8d2-732a4c91514c)
+![image](https://github.com/user-attachments/assets/45e06663-9c52-45a4-9625-ee43d6c41595)
+![image](https://github.com/user-attachments/assets/fb5b1320-b639-4cf7-a1b8-056d50c22088)
+
+
+
 
 
 
